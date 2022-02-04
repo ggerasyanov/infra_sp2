@@ -47,3 +47,5 @@ python3 manage.py addcsv
 ```
 python3 manage.py runserver
 ```
+### Авторы
+Герман, Андрей, Настя
